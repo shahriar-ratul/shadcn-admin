@@ -1,4 +1,3 @@
-import tailwindCssAnimate from 'tailwindcss-animate'
 import defaultTheme from 'tailwindcss/defaultTheme'
 import { fonts } from './src/config/fonts'
 
@@ -82,5 +81,5 @@ export default {
       },
     },
   },
-  plugins: [tailwindCssAnimate],
+  plugins: [],
 }
